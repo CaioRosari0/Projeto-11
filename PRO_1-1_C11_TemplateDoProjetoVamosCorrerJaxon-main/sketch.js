@@ -14,7 +14,6 @@ function setup(){
     path = createSprite(200,0);
     path.addImage(pathImg);
     path.velocityY = 4;
-    path.sacale = 1.2;
 
     //Criando menino que corre 
     boy = createSprite(200,200);
